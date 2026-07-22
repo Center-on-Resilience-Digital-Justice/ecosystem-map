@@ -5,7 +5,7 @@ export default function NavBar() {
         <div className="text-white text-lg font-semibold">Ecosystem Map</div>
         <div>
           <a href="/" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Home</a>
-          <a href="/about" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium">About</a>
+          <a href="/ecosystem-viewer/about" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium">About</a>
         </div>
       </div>
     </nav>
