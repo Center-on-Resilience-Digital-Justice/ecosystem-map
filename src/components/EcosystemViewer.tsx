@@ -3,16 +3,13 @@ import Sidebar from './Sidebar'
 
 import { InteractiveNvlWrapper } from '@neo4j-nvl/react'
 import type { Node, Relationship } from '@neo4j-nvl/base'
+import { ecosystemNodes, ecosystemRelationships } from './sampleData'
 
 export default function EcosystemViewer() {
-  const nodes = [{ id: '0' }, { id: '1' }, { id: '2' }, { id: '3' }, { id: '4' }]
-  const rels = [
-    { id: '10', from: '0', to: '1' },
-    { id: '11', from: '0', to: '2' },
-    { id: '12', from: '1', to: '3' },
-    { id: '13', from: '2', to: '4' },
-    { id: '14', from: '3', to: '2' },
-  ]
+  const nodes = ecosystemNodes
+  const rels = ecosystemRelationships
+
+  
   const [selectedNode, setSelectedNode] = useState<Node | undefined>(undefined)
   const [selectedRelationship, setSelectedRelationship] = useState<Relationship | undefined>(undefined)
 
@@ -28,15 +25,16 @@ export default function EcosystemViewer() {
         </div>
       </header>
 
-      <div className="h-[70vh] min-h-96 w-full bg-slate-50 p-4">
+      <div className="h-[80vh] min-h-96 w-full bg-slate-50 p-4">
         <div className="flex h-full gap-4">
           <div className="h-full flex-1 rounded-xl border border-slate-200 bg-white">
             <InteractiveNvlWrapper
             nvlOptions={{
                 disableWebWorkers: true, // quick fix: force true
+                initialZoom: 1.2,
             }}
-              nodes={nodes}
-              rels={rels}
+              nodes={nodes} // need to reconcile the fact that the sample data is using our defined ecosystem node type, while the InteractiveNvlWrapper expects the Node type from @neo4j-nvl/base
+              rels={rels} // same thing for relationships
               interactionOptions={{
                 selectOnClick: true,
                 drawShadowOnHover: true,
@@ -64,7 +62,8 @@ export default function EcosystemViewer() {
             />
           </div>
 
-          <div className="h-full w-70">
+          <div className="h-full max-w-70">
+            
             <Sidebar node={selectedNode} relationship={selectedRelationship} />
           </div>
         </div>
