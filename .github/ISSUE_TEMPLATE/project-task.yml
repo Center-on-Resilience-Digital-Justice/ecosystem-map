@@ -1,0 +1,65 @@
+name: Project Task
+description: Create a project task with user story, acceptance criteria, and content needs.
+title: "[Task]: "
+labels: ["documentation"]
+type: Task
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for project planning tasks, feature work, content updates, research tasks, schema work, and implementation tickets.
+
+  - type: textarea
+    id: user-story
+    attributes:
+      label: User story
+      description: Who is this for, what do they need, and why?
+      placeholder: |
+        As a [user / researcher / maintainer / visitor],
+        I want [goal or action],
+        so that [reason or value].
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance criteria
+      description: What must be true for this issue to be complete?
+      placeholder: |
+        - [ ] Criterion 1
+        - [ ] Criterion 2
+        - [ ] Criterion 3
+      value: |
+        - [ ] 
+        - [ ] 
+        - [ ] 
+    validations:
+      required: true
+
+  - type: textarea
+    id: content-needed
+    attributes:
+      label: Content / data needed
+      description: What copy, research notes, links, datasets, screenshots, schema fields, or other materials are needed?
+      placeholder: |
+        - Copy/content:
+        - Data/schema:
+        - Links:
+        - Assets/screenshots:
+        - Notes:
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes / open questions
+      description: Add implementation notes, research context, design questions, or anything that still needs discussion.
+      placeholder: |
+        - Related files/components:
+        - Related Notion/Google Sheet:
+        - Open questions:
+    validations:
+      required: false
