@@ -1,6 +1,14 @@
 import worksData from '../data/works.json'
 import embeddingsData from '../data/workEmbeddings.json'
 
+export type BibliographicSource = {
+  collection: string
+  file: string
+  row: number
+  landingPage?: string
+  curatedPosition?: number
+}
+
 export type Work = {
   id: string
   title: string
@@ -9,7 +17,8 @@ export type Work = {
   url: string
   description: string
   searchText: string
-  source: { collection: string; file: string; row: number }
+  source: BibliographicSource
+  sources: BibliographicSource[]
   verificationStatus: string
   issues: string[]
 }
@@ -34,6 +43,7 @@ if (index.version !== 1 || index.model !== MODEL || index.items.length !== corpu
 }
 
 const workById = new Map(corpus.map((work) => [work.id, work]))
+const vectorById = new Map(index.items.map(({ id, vector }) => [id, vector]))
 
 if (index.items.some(({ id }) => !workById.has(id))) {
   throw new Error('The semantic index has unknown work IDs. Rebuild the embeddings.')
@@ -73,11 +83,19 @@ function dot(left: number[], right: number[]): number {
   return left.reduce((sum, value, i) => sum + value * right[i], 0)
 }
 
+/** Compare two indexed works without making another AI model request. */
+export function semanticSimilarity(firstWorkId: string, secondWorkId: string): number | null {
+  const first = vectorById.get(firstWorkId)
+  const second = vectorById.get(secondWorkId)
+  return first && second ? dot(first, second) : null
+}
+
 /** Local semantic nearest-neighbor retrieval; rankings do not establish influence or citation. */
 export async function discoverWorks(
   question: string,
   onStatus: LoadingStatus = () => {},
   limit = 8,
+  collection: 'all' | 'crdj' | 'lis' = 'all',
 ): Promise<DiscoveryHit[]> {
   const text = question.trim()
   if (!text) return []
@@ -87,6 +105,11 @@ export async function discoverWorks(
   const vector = output.tolist()[0] as number[]
 
   return index.items
+    .filter(({ id }) => {
+      if (collection === 'all') return true
+      const expected = collection === 'crdj' ? 'CRDJ Essential Reading' : 'Black Excellence in LIS / Internet Studies'
+      return workById.get(id)?.sources.some((source) => source.collection === expected)
+    })
     .map(({ id, vector: workVector }) => ({
       work: workById.get(id)!,
       similarity: dot(vector, workVector),
