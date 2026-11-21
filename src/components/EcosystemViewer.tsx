@@ -3,6 +3,7 @@ import Sidebar from './Sidebar'
 
 import { InteractiveNvlWrapper } from '@neo4j-nvl/react'
 import type { Node, Relationship } from '@neo4j-nvl/base'
+import type { EcosystemNode, EcosystemRelationship } from './EcosystemTypes'
 import { ecosystemNodes, ecosystemRelationships } from './sampleData'
 
 export default function EcosystemViewer() {
@@ -10,8 +11,8 @@ export default function EcosystemViewer() {
   const rels = ecosystemRelationships
 
   
-  const [selectedNode, setSelectedNode] = useState<Node | undefined>(undefined)
-  const [selectedRelationship, setSelectedRelationship] = useState<Relationship | undefined>(undefined)
+  const [selectedNode, setSelectedNode] = useState<EcosystemNode | undefined>(undefined)
+  const [selectedRelationship, setSelectedRelationship] = useState<EcosystemRelationship | undefined>(undefined)
 
 
   return (
@@ -44,12 +45,12 @@ export default function EcosystemViewer() {
                 onNodeClick: (node: Node) => {
                     console.log('Node clicked:', node)
                     setSelectedRelationship(undefined)
-                    setSelectedNode(node)
+                    setSelectedNode(nodes.find((entry) => entry.id === node.id))
                 },
                 onRelationshipClick: (relationship: Relationship) => {
                   console.log('Relationship clicked:', relationship)
                   setSelectedNode(undefined)
-                  setSelectedRelationship(relationship)
+                  setSelectedRelationship(rels.find((entry) => entry.id === relationship.id))
                 },
                 onZoom: true,
                 onPan: true,

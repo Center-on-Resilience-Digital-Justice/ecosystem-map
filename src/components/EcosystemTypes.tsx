@@ -1,7 +1,7 @@
 export interface Node {
     id: string
     captions: { value: string }[]
-    properties: Record<string, any>
+    properties: Record<string, unknown>
     color: string
 }
 
@@ -43,7 +43,7 @@ export interface Relationship {
     id: string
     from: string
     to: string
-    properties: Record<string, any>
+    properties: Record<string, unknown>
 }
 export type RelationshipProperties = {
     relationshipType: 'funded'
