@@ -12,6 +12,13 @@
       "file": "black_excellence_lis.csv",
       "row": 3
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 3
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -28,6 +35,13 @@
       "file": "black_excellence_lis.csv",
       "row": 4
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 4
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -44,6 +58,13 @@
       "file": "black_excellence_lis.csv",
       "row": 5
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 5
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -60,6 +81,13 @@
       "file": "black_excellence_lis.csv",
       "row": 6
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 6
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -76,6 +104,13 @@
       "file": "black_excellence_lis.csv",
       "row": 7
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 7
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -92,6 +127,13 @@
       "file": "black_excellence_lis.csv",
       "row": 8
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 8
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -108,6 +150,13 @@
       "file": "black_excellence_lis.csv",
       "row": 9
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 9
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -124,6 +173,13 @@
       "file": "black_excellence_lis.csv",
       "row": 10
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 10
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -140,6 +196,13 @@
       "file": "black_excellence_lis.csv",
       "row": 11
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 11
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -156,6 +219,13 @@
       "file": "black_excellence_lis.csv",
       "row": 12
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 12
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -172,6 +242,13 @@
       "file": "black_excellence_lis.csv",
       "row": 13
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 13
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -188,6 +265,13 @@
       "file": "black_excellence_lis.csv",
       "row": 14
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 14
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -204,6 +288,20 @@
       "file": "black_excellence_lis.csv",
       "row": 15
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 15
+      },
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 2,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 1
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -220,6 +318,13 @@
       "file": "black_excellence_lis.csv",
       "row": 16
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 16
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -236,6 +341,13 @@
       "file": "black_excellence_lis.csv",
       "row": 17
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 17
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -252,6 +364,13 @@
       "file": "black_excellence_lis.csv",
       "row": 18
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 18
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -268,6 +387,13 @@
       "file": "black_excellence_lis.csv",
       "row": 19
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 19
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -284,6 +410,13 @@
       "file": "black_excellence_lis.csv",
       "row": 20
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 20
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -300,6 +433,13 @@
       "file": "black_excellence_lis.csv",
       "row": 21
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 21
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -316,6 +456,13 @@
       "file": "black_excellence_lis.csv",
       "row": 22
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 22
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -332,6 +479,13 @@
       "file": "black_excellence_lis.csv",
       "row": 23
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 23
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -348,6 +502,13 @@
       "file": "black_excellence_lis.csv",
       "row": 24
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 24
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -364,6 +525,13 @@
       "file": "black_excellence_lis.csv",
       "row": 25
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 25
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -380,6 +548,13 @@
       "file": "black_excellence_lis.csv",
       "row": 26
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 26
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -396,6 +571,13 @@
       "file": "black_excellence_lis.csv",
       "row": 27
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 27
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -412,6 +594,13 @@
       "file": "black_excellence_lis.csv",
       "row": 28
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 28
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -428,6 +617,13 @@
       "file": "black_excellence_lis.csv",
       "row": 29
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 29
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -444,6 +640,13 @@
       "file": "black_excellence_lis.csv",
       "row": 30
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 30
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -460,6 +663,13 @@
       "file": "black_excellence_lis.csv",
       "row": 31
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 31
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -476,6 +686,13 @@
       "file": "black_excellence_lis.csv",
       "row": 32
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 32
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -492,6 +709,20 @@
       "file": "black_excellence_lis.csv",
       "row": 33
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 33
+      },
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 16,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 15
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -508,6 +739,13 @@
       "file": "black_excellence_lis.csv",
       "row": 34
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 34
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -524,6 +762,13 @@
       "file": "black_excellence_lis.csv",
       "row": 35
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 35
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -540,6 +785,13 @@
       "file": "black_excellence_lis.csv",
       "row": 36
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 36
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -556,6 +808,13 @@
       "file": "black_excellence_lis.csv",
       "row": 37
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 37
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -572,6 +831,13 @@
       "file": "black_excellence_lis.csv",
       "row": 38
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 38
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -588,6 +854,13 @@
       "file": "black_excellence_lis.csv",
       "row": 39
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 39
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -604,6 +877,13 @@
       "file": "black_excellence_lis.csv",
       "row": 40
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 40
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -620,6 +900,13 @@
       "file": "black_excellence_lis.csv",
       "row": 41
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 41
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -636,6 +923,13 @@
       "file": "black_excellence_lis.csv",
       "row": 42
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 42
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -652,6 +946,13 @@
       "file": "black_excellence_lis.csv",
       "row": 43
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 43
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -668,6 +969,13 @@
       "file": "black_excellence_lis.csv",
       "row": 44
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 44
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -684,6 +992,13 @@
       "file": "black_excellence_lis.csv",
       "row": 45
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 45
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -700,6 +1015,13 @@
       "file": "black_excellence_lis.csv",
       "row": 46
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 46
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -716,6 +1038,13 @@
       "file": "black_excellence_lis.csv",
       "row": 47
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 47
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -732,6 +1061,13 @@
       "file": "black_excellence_lis.csv",
       "row": 49
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 49
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -748,6 +1084,13 @@
       "file": "black_excellence_lis.csv",
       "row": 50
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 50
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -764,6 +1107,13 @@
       "file": "black_excellence_lis.csv",
       "row": 51
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 51
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -780,6 +1130,13 @@
       "file": "black_excellence_lis.csv",
       "row": 52
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 52
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -796,6 +1153,13 @@
       "file": "black_excellence_lis.csv",
       "row": 54
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 54
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -812,6 +1176,13 @@
       "file": "black_excellence_lis.csv",
       "row": 55
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 55
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -828,6 +1199,20 @@
       "file": "black_excellence_lis.csv",
       "row": 56
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 56
+      },
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 15,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 14
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -844,6 +1229,13 @@
       "file": "black_excellence_lis.csv",
       "row": 57
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 57
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -860,6 +1252,13 @@
       "file": "black_excellence_lis.csv",
       "row": 58
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 58
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -876,6 +1275,13 @@
       "file": "black_excellence_lis.csv",
       "row": 59
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 59
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -892,6 +1298,13 @@
       "file": "black_excellence_lis.csv",
       "row": 60
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 60
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -908,6 +1321,13 @@
       "file": "black_excellence_lis.csv",
       "row": 61
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 61
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -924,6 +1344,13 @@
       "file": "black_excellence_lis.csv",
       "row": 62
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 62
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -940,6 +1367,13 @@
       "file": "black_excellence_lis.csv",
       "row": 63
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 63
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -956,6 +1390,13 @@
       "file": "black_excellence_lis.csv",
       "row": 64
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 64
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -972,6 +1413,13 @@
       "file": "black_excellence_lis.csv",
       "row": 65
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 65
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -988,6 +1436,13 @@
       "file": "black_excellence_lis.csv",
       "row": 66
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 66
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1004,6 +1459,13 @@
       "file": "black_excellence_lis.csv",
       "row": 67
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 67
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1020,6 +1482,13 @@
       "file": "black_excellence_lis.csv",
       "row": 68
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 68
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1036,6 +1505,13 @@
       "file": "black_excellence_lis.csv",
       "row": 69
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 69
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1052,6 +1528,13 @@
       "file": "black_excellence_lis.csv",
       "row": 70
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 70
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1068,6 +1551,13 @@
       "file": "black_excellence_lis.csv",
       "row": 71
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 71
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1084,6 +1574,13 @@
       "file": "black_excellence_lis.csv",
       "row": 72
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 72
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1100,6 +1597,13 @@
       "file": "black_excellence_lis.csv",
       "row": 73
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 73
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1116,6 +1620,13 @@
       "file": "black_excellence_lis.csv",
       "row": 74
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 74
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1132,6 +1643,13 @@
       "file": "black_excellence_lis.csv",
       "row": 75
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 75
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1148,6 +1666,13 @@
       "file": "black_excellence_lis.csv",
       "row": 76
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 76
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1164,6 +1689,13 @@
       "file": "black_excellence_lis.csv",
       "row": 77
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 77
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1180,6 +1712,13 @@
       "file": "black_excellence_lis.csv",
       "row": 78
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 78
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1196,6 +1735,13 @@
       "file": "black_excellence_lis.csv",
       "row": 79
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 79
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1212,6 +1758,13 @@
       "file": "black_excellence_lis.csv",
       "row": 80
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 80
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1228,6 +1781,13 @@
       "file": "black_excellence_lis.csv",
       "row": 81
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 81
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1244,6 +1804,13 @@
       "file": "black_excellence_lis.csv",
       "row": 82
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 82
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1260,6 +1827,13 @@
       "file": "black_excellence_lis.csv",
       "row": 83
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 83
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1276,6 +1850,13 @@
       "file": "black_excellence_lis.csv",
       "row": 84
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 84
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1292,6 +1873,13 @@
       "file": "black_excellence_lis.csv",
       "row": 85
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 85
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1308,6 +1896,13 @@
       "file": "black_excellence_lis.csv",
       "row": 86
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 86
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1324,6 +1919,13 @@
       "file": "black_excellence_lis.csv",
       "row": 87
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 87
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1340,6 +1942,13 @@
       "file": "black_excellence_lis.csv",
       "row": 88
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 88
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1356,6 +1965,13 @@
       "file": "black_excellence_lis.csv",
       "row": 89
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 89
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1372,6 +1988,13 @@
       "file": "black_excellence_lis.csv",
       "row": 90
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 90
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1388,6 +2011,13 @@
       "file": "black_excellence_lis.csv",
       "row": 91
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 91
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1404,6 +2034,13 @@
       "file": "black_excellence_lis.csv",
       "row": 92
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 92
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1420,6 +2057,13 @@
       "file": "black_excellence_lis.csv",
       "row": 93
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 93
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1436,6 +2080,13 @@
       "file": "black_excellence_lis.csv",
       "row": 94
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 94
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1452,6 +2103,13 @@
       "file": "black_excellence_lis.csv",
       "row": 96
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 96
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1468,6 +2126,13 @@
       "file": "black_excellence_lis.csv",
       "row": 97
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 97
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1484,6 +2149,13 @@
       "file": "black_excellence_lis.csv",
       "row": 98
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 98
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1500,6 +2172,13 @@
       "file": "black_excellence_lis.csv",
       "row": 99
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 99
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1516,6 +2195,13 @@
       "file": "black_excellence_lis.csv",
       "row": 100
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 100
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1532,6 +2218,13 @@
       "file": "black_excellence_lis.csv",
       "row": 101
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 101
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1548,6 +2241,13 @@
       "file": "black_excellence_lis.csv",
       "row": 102
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 102
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1564,6 +2264,13 @@
       "file": "black_excellence_lis.csv",
       "row": 103
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 103
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1580,6 +2287,13 @@
       "file": "black_excellence_lis.csv",
       "row": 104
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 104
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1596,6 +2310,13 @@
       "file": "black_excellence_lis.csv",
       "row": 105
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 105
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1612,6 +2333,13 @@
       "file": "black_excellence_lis.csv",
       "row": 106
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 106
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1628,6 +2356,13 @@
       "file": "black_excellence_lis.csv",
       "row": 107
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 107
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1644,6 +2379,13 @@
       "file": "black_excellence_lis.csv",
       "row": 108
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 108
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1660,6 +2402,13 @@
       "file": "black_excellence_lis.csv",
       "row": 109
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 109
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1676,6 +2425,13 @@
       "file": "black_excellence_lis.csv",
       "row": 110
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 110
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1692,6 +2448,13 @@
       "file": "black_excellence_lis.csv",
       "row": 111
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 111
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1708,6 +2471,13 @@
       "file": "black_excellence_lis.csv",
       "row": 112
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 112
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1724,6 +2494,13 @@
       "file": "black_excellence_lis.csv",
       "row": 113
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 113
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1740,6 +2517,13 @@
       "file": "black_excellence_lis.csv",
       "row": 114
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 114
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1756,6 +2540,13 @@
       "file": "black_excellence_lis.csv",
       "row": 115
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 115
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1772,6 +2563,13 @@
       "file": "black_excellence_lis.csv",
       "row": 116
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 116
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1788,6 +2586,13 @@
       "file": "black_excellence_lis.csv",
       "row": 117
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 117
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1804,6 +2609,13 @@
       "file": "black_excellence_lis.csv",
       "row": 118
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 118
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1820,6 +2632,13 @@
       "file": "black_excellence_lis.csv",
       "row": 119
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 119
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1836,6 +2655,13 @@
       "file": "black_excellence_lis.csv",
       "row": 120
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 120
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1852,6 +2678,13 @@
       "file": "black_excellence_lis.csv",
       "row": 121
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 121
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1868,6 +2701,13 @@
       "file": "black_excellence_lis.csv",
       "row": 122
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 122
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1884,6 +2724,13 @@
       "file": "black_excellence_lis.csv",
       "row": 123
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 123
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1900,6 +2747,13 @@
       "file": "black_excellence_lis.csv",
       "row": 124
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 124
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1916,6 +2770,13 @@
       "file": "black_excellence_lis.csv",
       "row": 125
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 125
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1932,6 +2793,20 @@
       "file": "black_excellence_lis.csv",
       "row": 126
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 126
+      },
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 18,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 17
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1948,6 +2823,13 @@
       "file": "black_excellence_lis.csv",
       "row": 127
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 127
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1964,6 +2846,13 @@
       "file": "black_excellence_lis.csv",
       "row": 128
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 128
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1980,6 +2869,13 @@
       "file": "black_excellence_lis.csv",
       "row": 129
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 129
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -1996,6 +2892,13 @@
       "file": "black_excellence_lis.csv",
       "row": 130
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 130
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2012,6 +2915,13 @@
       "file": "black_excellence_lis.csv",
       "row": 131
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 131
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2028,6 +2938,13 @@
       "file": "black_excellence_lis.csv",
       "row": 132
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 132
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2044,6 +2961,13 @@
       "file": "black_excellence_lis.csv",
       "row": 133
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 133
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2060,6 +2984,13 @@
       "file": "black_excellence_lis.csv",
       "row": 134
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 134
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2076,6 +3007,13 @@
       "file": "black_excellence_lis.csv",
       "row": 135
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 135
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2092,6 +3030,13 @@
       "file": "black_excellence_lis.csv",
       "row": 136
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 136
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2108,6 +3053,13 @@
       "file": "black_excellence_lis.csv",
       "row": 137
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 137
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2124,6 +3076,13 @@
       "file": "black_excellence_lis.csv",
       "row": 138
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 138
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2140,6 +3099,13 @@
       "file": "black_excellence_lis.csv",
       "row": 140
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 140
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2156,6 +3122,13 @@
       "file": "black_excellence_lis.csv",
       "row": 141
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 141
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2172,6 +3145,13 @@
       "file": "black_excellence_lis.csv",
       "row": 142
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 142
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2188,6 +3168,13 @@
       "file": "black_excellence_lis.csv",
       "row": 143
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 143
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2204,6 +3191,13 @@
       "file": "black_excellence_lis.csv",
       "row": 144
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 144
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2220,6 +3214,13 @@
       "file": "black_excellence_lis.csv",
       "row": 145
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 145
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2236,6 +3237,13 @@
       "file": "black_excellence_lis.csv",
       "row": 146
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 146
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2252,6 +3260,13 @@
       "file": "black_excellence_lis.csv",
       "row": 147
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 147
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2268,6 +3283,13 @@
       "file": "black_excellence_lis.csv",
       "row": 148
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 148
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2284,6 +3306,13 @@
       "file": "black_excellence_lis.csv",
       "row": 149
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 149
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2300,6 +3329,13 @@
       "file": "black_excellence_lis.csv",
       "row": 150
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 150
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2316,6 +3352,13 @@
       "file": "black_excellence_lis.csv",
       "row": 151
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 151
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2332,6 +3375,13 @@
       "file": "black_excellence_lis.csv",
       "row": 152
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 152
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2348,6 +3398,13 @@
       "file": "black_excellence_lis.csv",
       "row": 153
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 153
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2364,6 +3421,13 @@
       "file": "black_excellence_lis.csv",
       "row": 154
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 154
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2380,6 +3444,13 @@
       "file": "black_excellence_lis.csv",
       "row": 155
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 155
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2396,6 +3467,13 @@
       "file": "black_excellence_lis.csv",
       "row": 156
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 156
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2412,6 +3490,13 @@
       "file": "black_excellence_lis.csv",
       "row": 157
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 157
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2428,6 +3513,13 @@
       "file": "black_excellence_lis.csv",
       "row": 158
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 158
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2444,6 +3536,13 @@
       "file": "black_excellence_lis.csv",
       "row": 159
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 159
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2460,6 +3559,13 @@
       "file": "black_excellence_lis.csv",
       "row": 160
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 160
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2476,6 +3582,13 @@
       "file": "black_excellence_lis.csv",
       "row": 161
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 161
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2492,6 +3605,13 @@
       "file": "black_excellence_lis.csv",
       "row": 162
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 162
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2508,6 +3628,13 @@
       "file": "black_excellence_lis.csv",
       "row": 163
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 163
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2524,6 +3651,13 @@
       "file": "black_excellence_lis.csv",
       "row": 164
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 164
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2540,6 +3674,13 @@
       "file": "black_excellence_lis.csv",
       "row": 165
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 165
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2556,6 +3697,13 @@
       "file": "black_excellence_lis.csv",
       "row": 166
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 166
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2572,6 +3720,13 @@
       "file": "black_excellence_lis.csv",
       "row": 167
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 167
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2588,6 +3743,13 @@
       "file": "black_excellence_lis.csv",
       "row": 168
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 168
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2604,6 +3766,13 @@
       "file": "black_excellence_lis.csv",
       "row": 169
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 169
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2620,6 +3789,13 @@
       "file": "black_excellence_lis.csv",
       "row": 170
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 170
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2636,6 +3812,13 @@
       "file": "black_excellence_lis.csv",
       "row": 171
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 171
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2652,6 +3835,13 @@
       "file": "black_excellence_lis.csv",
       "row": 172
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 172
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2668,6 +3858,13 @@
       "file": "black_excellence_lis.csv",
       "row": 173
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 173
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2684,6 +3881,13 @@
       "file": "black_excellence_lis.csv",
       "row": 174
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 174
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2700,6 +3904,13 @@
       "file": "black_excellence_lis.csv",
       "row": 175
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 175
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2716,6 +3927,13 @@
       "file": "black_excellence_lis.csv",
       "row": 176
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 176
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2732,6 +3950,13 @@
       "file": "black_excellence_lis.csv",
       "row": 177
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 177
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2748,6 +3973,13 @@
       "file": "black_excellence_lis.csv",
       "row": 178
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 178
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2764,6 +3996,13 @@
       "file": "black_excellence_lis.csv",
       "row": 179
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 179
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2780,6 +4019,13 @@
       "file": "black_excellence_lis.csv",
       "row": 180
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 180
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2796,6 +4042,13 @@
       "file": "black_excellence_lis.csv",
       "row": 181
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 181
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2812,6 +4065,13 @@
       "file": "black_excellence_lis.csv",
       "row": 182
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 182
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2828,6 +4088,13 @@
       "file": "black_excellence_lis.csv",
       "row": 183
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 183
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2844,6 +4111,13 @@
       "file": "black_excellence_lis.csv",
       "row": 184
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 184
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2860,6 +4134,13 @@
       "file": "black_excellence_lis.csv",
       "row": 185
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 185
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2876,6 +4157,13 @@
       "file": "black_excellence_lis.csv",
       "row": 186
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 186
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2892,6 +4180,13 @@
       "file": "black_excellence_lis.csv",
       "row": 187
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 187
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2908,6 +4203,13 @@
       "file": "black_excellence_lis.csv",
       "row": 188
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 188
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2924,6 +4226,13 @@
       "file": "black_excellence_lis.csv",
       "row": 189
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 189
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2940,6 +4249,13 @@
       "file": "black_excellence_lis.csv",
       "row": 190
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 190
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2956,6 +4272,13 @@
       "file": "black_excellence_lis.csv",
       "row": 191
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 191
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2972,6 +4295,13 @@
       "file": "black_excellence_lis.csv",
       "row": 192
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 192
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -2988,6 +4318,13 @@
       "file": "black_excellence_lis.csv",
       "row": 193
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 193
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -3004,6 +4341,13 @@
       "file": "black_excellence_lis.csv",
       "row": 194
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 194
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": []
   },
@@ -3020,6 +4364,13 @@
       "file": "black_excellence_lis.csv",
       "row": 196
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 196
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": [
       "missing_or_invalid_year"
@@ -3038,6 +4389,13 @@
       "file": "black_excellence_lis.csv",
       "row": 197
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 197
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": [
       "missing_or_invalid_year"
@@ -3056,6 +4414,13 @@
       "file": "black_excellence_lis.csv",
       "row": 198
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 198
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": [
       "missing_or_invalid_year"
@@ -3074,6 +4439,13 @@
       "file": "black_excellence_lis.csv",
       "row": 199
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 199
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": [
       "missing_or_invalid_year"
@@ -3092,8 +4464,795 @@
       "file": "black_excellence_lis.csv",
       "row": 200
     },
+    "sources": [
+      {
+        "collection": "Black Excellence in LIS / Internet Studies",
+        "file": "black_excellence_lis.csv",
+        "row": 200
+      }
+    ],
     "verificationStatus": "unverified",
     "issues": [
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-ed52110aa08c",
+    "title": "The Intersectional Internet: Race, Sex, Class, and Culture Online",
+    "author": "Safiya Umoja Noble; Brendesha M. Tynes",
+    "year": null,
+    "url": "https://www.peterlang.com/document/1136834",
+    "description": "Edited volume; editor credits",
+    "searchText": "The Intersectional Internet: Race, Sex, Class, and Culture Online",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 3,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 2
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 3,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 2
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-2a53283c451e",
+    "title": "Deep Unlearning",
+    "author": "Timnit Gebru",
+    "year": null,
+    "url": "https://www.simonandschuster.com/books/Deep-Unlearning/Timnit-Gebru/9781668093078",
+    "description": "",
+    "searchText": "Deep Unlearning",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 4,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 3
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 4,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 3
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-2620ec1e9aa4",
+    "title": "The AI Con",
+    "author": "Emily M. Bender; Alex Hanna",
+    "year": null,
+    "url": "https://www.penguin.co.uk/books/468070/the-ai-con-by-hanna-emily-m-bender-and-alex/9781529949902",
+    "description": "",
+    "searchText": "The AI Con",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 5,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 4
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 5,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 4
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-a8a6258c5987",
+    "title": "Unmasking AI",
+    "author": "Joy Buolamwini",
+    "year": null,
+    "url": "https://www.unmasking.ai/",
+    "description": "",
+    "searchText": "Unmasking AI",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 6,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 5
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 6,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 5
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-5c2b17ef715c",
+    "title": "Digital Black Feminism",
+    "author": "Catherine Knight Steele",
+    "year": null,
+    "url": "https://nyupress.org/9781479808366/digital-black-feminism/",
+    "description": "",
+    "searchText": "Digital Black Feminism",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 7,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 6
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 7,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 6
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-639de830cf5c",
+    "title": "Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism",
+    "author": "Allissa V. Richardson",
+    "year": null,
+    "url": "https://bookshop.org/p/books/bearing-witness-while-black-african-americans-smartphones-and-the-new-protest-journalism-allissa-v-richardson/18632025?ean=9780190935535",
+    "description": "",
+    "searchText": "Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 8,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 7
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 8,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 7
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-6dc61faea8d0",
+    "title": "Cyber Racism: White Supremacy Online and the New Attack on Civil Rights",
+    "author": "Jessie Daniels",
+    "year": null,
+    "url": "https://www.bloomsbury.com/us/cyber-racism-9798765169551/",
+    "description": "",
+    "searchText": "Cyber Racism: White Supremacy Online and the New Attack on Civil Rights",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 9,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 8
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 9,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 8
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-1f43a6f71490",
+    "title": "Behind the Screen",
+    "author": "Sarah T. Roberts",
+    "year": null,
+    "url": "https://yalebooks.yale.edu/book/9780300261479/behind-the-screen/",
+    "description": "",
+    "searchText": "Behind the Screen",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 10,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 9
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 10,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 9
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-cb25c1556f35",
+    "title": "Programmed Inequality",
+    "author": "Marie Hicks",
+    "year": null,
+    "url": "https://mitpress.mit.edu/9780262535182/programmed-inequality/",
+    "description": "",
+    "searchText": "Programmed Inequality",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 11,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 10
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 11,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 10
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-aac5248d3767",
+    "title": "Resurrecting the Black Body",
+    "author": "Tonia Sutherland",
+    "year": null,
+    "url": "https://www.ucpress.edu/books/resurrecting-the-black-body/paper",
+    "description": "",
+    "searchText": "Resurrecting the Black Body",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 12,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 11
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 12,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 11
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-d14abf1526ed",
+    "title": "Data Borders",
+    "author": "Melissa Villa-Nicholas",
+    "year": null,
+    "url": "https://www.ucpress.edu/books/data-borders/paper",
+    "description": "",
+    "searchText": "Data Borders",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 13,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 12
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 13,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 12
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-ef7ee4273bd6",
+    "title": "#HashtagActivism: Networks of Race and Gender Justice",
+    "author": "Sarah J. Jackson; Moya Bailey; Brooke Foucault Welles",
+    "year": null,
+    "url": "https://bookshop.org/p/books/hashtagactivism-networks-of-race-and-gender-justice-sarah-j-jackson/13050736?ean=9780262043373",
+    "description": "",
+    "searchText": "#HashtagActivism: Networks of Race and Gender Justice",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 14,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 13
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 14,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 13
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-8635eb55b4d8",
+    "title": "Queer Times, Black Futures",
+    "author": "Kara Keeling",
+    "year": null,
+    "url": "https://bookshop.org/p/books/queer-times-black-futures-kara-keeling/6518241",
+    "description": "",
+    "searchText": "Queer Times, Black Futures",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 17,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 16
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 17,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 16
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-34a375eca413",
+    "title": "Artificial Unintelligence",
+    "author": "Meredith Broussard",
+    "year": null,
+    "url": "https://bookshop.org/p/books/artificial-unintelligence-how-computers-misunderstand-the-world-meredith-broussard/7352531?ean=9780262537018",
+    "description": "",
+    "searchText": "Artificial Unintelligence",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 19,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 18
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 19,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 18
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-797ca61f6187",
+    "title": "Woke Gaming: Digital Challenges to Oppression and Social Injustice",
+    "author": "Kishonna L. Gray; David J. Leonard",
+    "year": null,
+    "url": "https://bookshop.org/p/books/woke-gaming-digital-challenges-to-oppression-and-social-injustice-david-j-leonard/6635391?ean=9780295744179",
+    "description": "Edited volume; editor credits",
+    "searchText": "Woke Gaming: Digital Challenges to Oppression and Social Injustice",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 20,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 19
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 20,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 19
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-0e8cfa951c71",
+    "title": "The Social Life of DNA: Race, Reparations, and Reconciliation after the Genome",
+    "author": "Alondra Nelson",
+    "year": null,
+    "url": "https://bookshop.org/p/books/the-social-life-of-dna-race-reparations-and-reconciliation-after-the-genome-alondra-nelson/8999532?ean=9780807027189",
+    "description": "",
+    "searchText": "The Social Life of DNA: Race, Reparations, and Reconciliation after the Genome",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 21,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 20
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 21,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 20
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-cb29e6afa934",
+    "title": "Dark Matters: On the Surveillance of Blackness",
+    "author": "Simone Browne",
+    "year": null,
+    "url": "https://bookshop.org/p/books/dark-matters-on-the-surveillance-of-blackness-simone-browne/10920811?ean=9780822359388",
+    "description": "",
+    "searchText": "Dark Matters: On the Surveillance of Blackness",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 22,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 21
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 22,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 21
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-f8672eba259b",
+    "title": "In the Wake: On Blackness and Being",
+    "author": "Christina Sharpe",
+    "year": null,
+    "url": "https://bookshop.org/p/books/in-the-wake-on-blackness-and-being-christina-sharpe/18273374?ean=9780822362944",
+    "description": "",
+    "searchText": "In the Wake: On Blackness and Being",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 23,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 22
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 23,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 22
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-cf69741b3022",
+    "title": "Wayward Lives, Beautiful Experiments",
+    "author": "Saidiya Hartman",
+    "year": null,
+    "url": "https://bookshop.org/p/books/wayward-lives-beautiful-experiments-intimate-histories-of-riotous-black-girls-troublesome-women-and-queer-radicals-saidiya-hartman/8777979?ean=9780393357622",
+    "description": "",
+    "searchText": "Wayward Lives, Beautiful Experiments",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 24,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 23
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 24,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 23
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-30dbd8513664",
+    "title": "Are Prisons Obsolete?",
+    "author": "Angela Y. Davis",
+    "year": null,
+    "url": "https://bookshop.org/p/books/are-prisons-obsolete-angela-y-davis/577080?ean=9781583225813",
+    "description": "",
+    "searchText": "Are Prisons Obsolete?",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 25,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 24
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 25,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 24
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-24e8f29b8d4c",
+    "title": "Aberrations in Black: Toward a Queer of Color Critique",
+    "author": "Roderick A. Ferguson",
+    "year": null,
+    "url": "https://bookshop.org/p/books/aberrations-in-black-toward-a-queer-of-color-critique-roderick-a-ferguson/9385935?ean=9780816641291",
+    "description": "",
+    "searchText": "Aberrations in Black: Toward a Queer of Color Critique",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 26,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 25
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 26,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 25
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-d4dc0127263d",
+    "title": "Intersectional Tech",
+    "author": "Kishonna L. Gray",
+    "year": null,
+    "url": "https://bookshop.org/p/books/intersectional-tech-black-users-in-digital-gaming-kishonna-l-gray/14630339?ean=9780807171226",
+    "description": "",
+    "searchText": "Intersectional Tech",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 27,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 26
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 27,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 26
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-1ab610aded54",
+    "title": "The Young and the Digital",
+    "author": "S. Craig Watkins",
+    "year": null,
+    "url": "https://bookshop.org/p/books/the-young-and-the-digital-what-the-migration-to-social-network-sites-games-and-anytime-anywhere-media-m-eans-for-our-future-s-craig-watkins/8992806?ean=9780807006160",
+    "description": "",
+    "searchText": "The Young and the Digital",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 28,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 27
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 28,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 27
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-802c9b22b217",
+    "title": "Digital Diaspora: A Race for Cyberspace",
+    "author": "Anna Everett",
+    "year": null,
+    "url": "https://bookshop.org/p/books/digital-diaspora-a-race-for-cyberspace-anna-everett/9108886?ean=9780791476734",
+    "description": "",
+    "searchText": "Digital Diaspora: A Race for Cyberspace",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 29,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 28
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 29,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 28
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-df62eef7570a",
+    "title": "Game Changer: The Technoscientific Revolution in Sports",
+    "author": "Rayvon Fouché",
+    "year": null,
+    "url": "https://bookshop.org/p/books/game-changer-the-technoscientific-revolution-in-sports-rayvon-fouche/9405430?ean=9781421421797",
+    "description": "",
+    "searchText": "Game Changer: The Technoscientific Revolution in Sports",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 30,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 29
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 30,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 29
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
+      "missing_or_invalid_year"
+    ]
+  },
+  {
+    "id": "crdj-c86fb1aa25bc",
+    "title": "Fatal Invention: How Science, Politics, and Big Business Re-create Race in the Twenty-first Century",
+    "author": "Dorothy Roberts",
+    "year": null,
+    "url": "https://bookshop.org/p/books/fatal-invention-how-science-politics-and-big-business-re-create-race-in-the-twenty-first-century-dorothy-roberts/594497?ean=9781595588340",
+    "description": "",
+    "searchText": "Fatal Invention: How Science, Politics, and Big Business Re-create Race in the Twenty-first Century",
+    "source": {
+      "collection": "CRDJ Essential Reading",
+      "file": "crdj_essential_reading.csv",
+      "row": 31,
+      "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+      "curatedPosition": 30
+    },
+    "sources": [
+      {
+        "collection": "CRDJ Essential Reading",
+        "file": "crdj_essential_reading.csv",
+        "row": 31,
+        "landingPage": "https://www.raceanddigitaljustice.org/essentialreading",
+        "curatedPosition": 30
+      }
+    ],
+    "verificationStatus": "unverified",
+    "issues": [
+      "source_metadata_needs_review",
       "missing_or_invalid_year"
     ]
   }

@@ -1,8 +1,15 @@
 import { useState } from 'react'
 import { corpus, discoverWorks } from '../services/semanticSearch'
 import type { DiscoveryHit } from '../services/semanticSearch'
+import ScholarshipMap from './ScholarshipMap'
 
 const startingQuestion = 'How do Black feminist scholars rethink archives, memory, and information access?'
+const collectionNames = {
+  all: 'Both curated collections',
+  crdj: 'CRDJ Essential Reading',
+  lis: 'Black Excellence in LIS / Internet Studies',
+} as const
+type CollectionFilter = keyof typeof collectionNames
 
 export default function DiscoveryExplorer() {
   const [question, setQuestion] = useState(startingQuestion)
@@ -11,6 +18,9 @@ export default function DiscoveryExplorer() {
   const [loading, setLoading] = useState(false)
   const [status, setStatus] = useState('')
   const [error, setError] = useState('')
+  const [resultView, setResultView] = useState<'list' | 'map'>('list')
+  const [collection, setCollection] = useState<CollectionFilter>('all')
+  const [searchedCollection, setSearchedCollection] = useState<CollectionFilter>('all')
 
   async function search() {
     if (!question.trim() || loading) return
@@ -21,9 +31,11 @@ export default function DiscoveryExplorer() {
     setStatus('Preparing search…')
 
     try {
-      const found = await discoverWorks(question, setStatus)
+      const found = await discoverWorks(question, setStatus, 8, collection)
       setHits(found)
       setSearchedQuestion(question.trim())
+      setSearchedCollection(collection)
+      setResultView('list')
     } catch (reason) {
       console.error('Semantic discovery failed:', reason)
       setError('Search could not start. Check your connection for the first model download, then try again.')
@@ -37,10 +49,10 @@ export default function DiscoveryExplorer() {
     <section className="mx-auto w-full max-w-5xl py-8 text-slate-900">
       <div className="mb-7">
         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-indigo-700">Intellectual communities · Research prototype</p>
-        <h1 className="mt-3 text-3xl font-semibold tracking-tight sm:text-4xl">Discover scholarship through a question</h1>
+        <h1 className="mt-3 text-3xl font-semibold tracking-tight sm:text-4xl">Discover and map scholarship</h1>
         <p className="mt-3 max-w-3xl text-base leading-relaxed text-slate-600">
-          Start with an idea, question, or concept. Explore nearby scholarship in a curated collection,
-          follow the sources, and decide which connections deserve further investigation.
+          Begin with your own question. Find relevant scholarship, map its bibliographic connections,
+          inspect sources, and investigate how intellectual communities are represented.
         </p>
       </div>
 
@@ -60,8 +72,19 @@ export default function DiscoveryExplorer() {
           placeholder="Enter a research question or a cluster of concepts…"
           className="mt-3 w-full resize-y rounded-xl border border-slate-300 bg-white p-4 text-base text-slate-900 outline-indigo-500 focus:border-indigo-500"
         />
+        <div className="mt-4">
+          <label htmlFor="discovery-collection" className="block text-sm font-semibold text-slate-800">Search collection</label>
+          <select
+            id="discovery-collection"
+            value={collection}
+            onChange={(event) => setCollection(event.target.value as CollectionFilter)}
+            className="mt-2 w-full rounded-lg border border-slate-300 bg-white p-3 text-sm text-slate-900 focus:border-indigo-500 sm:w-auto"
+          >
+            {Object.entries(collectionNames).map(([value, label]) => <option key={value} value={value}>{label}</option>)}
+          </select>
+        </div>
         <div className="mt-4 flex flex-wrap items-center justify-between gap-3">
-          <p className="text-xs text-slate-500">{corpus.length} works · Semantic matching · Browser-local query processing</p>
+          <p className="text-xs text-slate-500">{corpus.length} distinct works · 2 curated sources · Browser-local semantic matching</p>
           <button
             type="submit"
             disabled={loading || !question.trim()}
@@ -77,14 +100,23 @@ export default function DiscoveryExplorer() {
 
       {searchedQuestion && (
         <section className="mt-9" aria-label="Discovery results">
-          <div className="mb-5 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+          <div className="mb-5 flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
             <div>
-              <h2 className="text-xl font-semibold">Nearby scholarship</h2>
-              <p className="mt-1 text-sm text-slate-600">Top {hits.length} conceptual matches for “{searchedQuestion}”</p>
+              <h2 className="text-xl font-semibold">Your discovery landscape</h2>
+              <p className="mt-1 text-sm text-slate-600">Top {hits.length} conceptual matches in {collectionNames[searchedCollection]} for “{searchedQuestion}”</p>
             </div>
-            <p className="text-xs text-slate-500">Ordered by semantic proximity, not verified intellectual influence</p>
+            <div className="flex gap-2" role="group" aria-label="Choose discovery view">
+              <button type="button" aria-pressed={resultView === 'list'} onClick={() => setResultView('list')} className={`rounded-lg px-4 py-2 text-sm font-semibold ${resultView === 'list' ? 'bg-indigo-800 text-white' : 'border border-slate-300 bg-white text-slate-700 hover:bg-slate-100'}`}>
+                Results list
+              </button>
+              <button type="button" aria-pressed={resultView === 'map'} onClick={() => setResultView('map')} className={`rounded-lg px-4 py-2 text-sm font-semibold ${resultView === 'map' ? 'bg-indigo-800 text-white' : 'border border-indigo-300 bg-indigo-50 text-indigo-800 hover:bg-indigo-100'}`}>
+                Explore as map
+              </button>
+            </div>
           </div>
-          <ol className="grid gap-4">
+          {resultView === 'map' ? (
+            <ScholarshipMap hits={hits} question={searchedQuestion} />
+          ) : <ol className="grid gap-4">
             {hits.map(({ work }, position) => (
               <li key={work.id} className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
                 <div className="flex gap-4">
@@ -97,17 +129,18 @@ export default function DiscoveryExplorer() {
                       {/^https?:\/\//i.test(work.url) && (
                         <a href={work.url} target="_blank" rel="noopener noreferrer" className="font-semibold text-indigo-700 underline underline-offset-4 hover:text-indigo-900">Open source ↗</a>
                       )}
-                      <span className="text-slate-500">{work.source.collection} · Row {work.source.row}</span>
+                      <span className="text-slate-500">{work.sources.map((source) => source.collection).join(' + ')}</span>
+                      {work.sources.some((source) => source.landingPage) && <a href="https://www.raceanddigitaljustice.org/essentialreading" target="_blank" rel="noopener noreferrer" className="font-semibold text-amber-800 underline">CRDJ reading list ↗</a>}
                       <span className="rounded-full bg-amber-50 px-2 py-1 text-amber-900">Metadata {work.verificationStatus}</span>
                     </div>
                   </div>
                 </div>
               </li>
             ))}
-          </ol>
+          </ol>}
           <p className="mt-5 rounded-xl bg-slate-100 p-4 text-sm leading-relaxed text-slate-700">
             <strong>Reading these connections:</strong> This prototype matches the language of your question against publication titles and available notes.
-            The collection is selective; a missing result is a gap in this corpus, not evidence of a gap in scholarship.
+            These collections are selective; a missing result is a gap in this corpus, not evidence of a gap in scholarship.
             Follow source links to verify dates, authorship, and relevance.
           </p>
         </section>
