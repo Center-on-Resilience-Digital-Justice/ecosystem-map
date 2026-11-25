@@ -42,7 +42,7 @@ function creditedAuthors(value: string): string[] {
 }
 
 function makeGraph(hits: DiscoveryHit[], question: string) {
-  const nodes: Node[] = [{ id: 'question', caption: 'Your question', color: colors.question, size: 43 }]
+  const nodes: Node[] = [{ id: 'question', caption: question.trim(), color: colors.question, size: 43 }]
   const rels: Relationship[] = []
   const entries = new Map<string, GraphEntry>([['question', { kind: 'question', question }]])
   const relations = new Map<string, RelationEntry>()
@@ -174,7 +174,7 @@ export default function ScholarshipMap({ hits, question }: { hits: DiscoveryHit[
       <div className="grid min-h-[560px] grid-cols-1 lg:grid-cols-[minmax(0,1fr)_310px]">
         <div className="h-[480px] min-w-0 bg-slate-50 lg:h-[560px]" aria-label="Interactive NVL graph">
           <InteractiveNvlWrapper
-            key={hits.map(({ work }) => work.id).join('|')}
+            key={`${question}|${hits.map(({ work }) => work.id).join('|')}`}
             nodes={graph.nodes}
             rels={graph.rels}
             nvlOptions={{ disableTelemetry: true, disableWebWorkers: true, initialZoom: 0.75 }}
